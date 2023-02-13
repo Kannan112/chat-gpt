@@ -19,3 +19,7 @@ git clone https://github.com/kannan112/chatgpt-project.git
 Limitations
 
 This project is a small implementation of ChatGPT and may not provide the full capabilities and performance of the original model. The responses generated may not always be correct or appropriate.
+
+Conclusion
+
+This project serves as a basic example of how OpenAI's ChatGPT can be used in generating human-like responses to text input. It is recommended to use the original model for more advanced and accurate results.
