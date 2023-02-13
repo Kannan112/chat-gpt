@@ -11,4 +11,4 @@ OpenAI's GPT-3 API Key
 The openai package
 
 1.Clone the repository to your local machine--
-git clone https://github.com/<your-username>/chatgpt-project.git
+git clone https://github.com/kannan112/chatgpt-project.git
