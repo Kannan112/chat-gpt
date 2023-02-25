@@ -22,4 +22,6 @@ This project is a small implementation of ChatGPT and may not provide the full c
 
 Conclusion
 
-This project serves as a basic example of how OpenAI's ChatGPT can be used in generating human-like responses to text input. It is recommended to use the original model for more advanced and accurate results.
+This project serves as a basic example of how OpenAI's ChatGPT can be used in generating human-like responses to text input. It is recommended to use the original model for more advanced and accurate results..
+
+
